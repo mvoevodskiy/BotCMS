@@ -14,9 +14,9 @@
     "js-middleware": "^0.3.1",
     "lowdb": "^1.0.0",
     "mvl-handlebars-handler": "^1.0.3",
-    "mvtools": "^1.0.19",
+    "mvtools": "^1.1.2",
     "telegraf": "^3.36.0",
-    "vk-io": "^4.1.4"
+    "vk-io": "4.1.4"
   },
   "devDependencies": {},
   "repository": {
